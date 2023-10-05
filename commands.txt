@@ -1,2 +1,4 @@
 mkdir = creates new folder
 touch = creates new file
+git init = creates git folder
+git commit -m "message"
